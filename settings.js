@@ -3,23 +3,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923071639265"
-global.ownername = "Mudassar khan"
+global.ownernomer = "94706930681"
+global.ownername = " Infinity Artz"
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Mianwali"
+global.location = "Sri lanka, Colombo"
 
-global.ownernumber = '923071639265'  //creator number
-global.ownername = ' *PRECIOUS MUDASSAR* ' //owner name
-global.botname = 'M2K BUG BOT ' //name of the bot
+global.ownernumber = '94706930681'  //creator number
+global.ownername = ' *Infinity Artz* ' //owner name
+global.botname = 'Infinity Artz BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PRECIOUS MUDASSAR KHAN'
+global.author = 'Infinity Artz'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Mudassar Khan"
+global.themeemoji = '🤖'
+global.wm = "Infinity Artz"
 
 //theme link
 global.link = 'https://whatsapp.com'
@@ -32,7 +32,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = true //auto update status
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
@@ -55,7 +55,7 @@ global.mess = {
     prem: '*This feature can be used by premium user only,first go and search for premium*',
     admin: '*Go and become admin fist...*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
-    owner: 'This feature can be used by *_PRECIOUS MUDASSAR_* only',
+    owner: 'This feature can be used by *_Infinity Artz_* only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: '~In process... ',    
