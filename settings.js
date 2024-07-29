@@ -3,19 +3,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "923071639265"
+global.ownername = "Mudassar khan"
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "Pakistan, Mianwali"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownernumber = '923071639265'  //creator number
+global.ownername = ' *PRECIOUS MUDASSAR* ' //owner name
+global.botname = 'M2K BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'WASI'
+global.author = 'PRECIOUS MUDASSAR KHAN'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -29,8 +29,8 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
@@ -51,15 +51,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    done: '*Done !*',
+    prem: '*This feature can be used by premium user only,first go and search for premium*',
+    admin: '*Go and become admin fist...*',
+    botAdmin: '*This feature can only be used when the bot is a group admin* ',
+    owner: 'This feature can be used by *_PRECIOUS MUDASSAR_* only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: '~In process... ',    
+    error: 'Error! you may try again',
 }
 
 global.thumb = fs.readFileSync('./Wasimedia/thumb.jpg')
