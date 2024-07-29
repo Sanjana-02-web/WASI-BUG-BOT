@@ -1,33 +1,21 @@
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+### must watch at [click](https://chat.whatsapp.com/Ez5TpuByFmP86qxsJU8Si9)
 
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/b8bda8d243f53c191a69b.jpg">
-    <h1 align="center">WASI-BUG-BOT</h1>
+  <a href="(https://chat.whatsapp.com/I5R0fBt6906196TXQAWnYQ)">
+    <img alt="Infinity Artz" height="300" src="(https://github.com/user-attachments/assets/7e084387-fb43-4b00-94ee-dd6c5dbf970e).jpg">
+    <h1 align="center">Infinity-Artz</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/wasi-ser"><img title="Author" src="https://img.shields.io/badge/InfinityArtz-black?style=for-the-badge&logo=Infinity"></a> <a href="(https://chat.whatsapp.com/Ez5TpuByFmP86qxsJU8Si9)"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="(https://wa.me/qr/QIJ3YBSIX6HNE1)"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
-   ### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+   ### must watch at [click to watch ](https://chat.whatsapp.com/I5R0fBt6906196TXQAWnYQ))
+
 
    
    
- MR WASI BUG BOT
+ Infinity Artz BOT
 ### this code copy from dj xeon  all credits for him
 
 ```
