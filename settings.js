@@ -19,7 +19,7 @@ global.author = 'PRECIOUS MUDASSAR KHAN'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "Mudassar Khan"
 
 //theme link
 global.link = 'https://whatsapp.com'
